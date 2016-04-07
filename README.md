@@ -9,4 +9,4 @@ mvn clean package
 java -jar target/dropwizard-seed-1.0-SNAPSHOT.jar server src/main/java/project/config/envConfig.yml
 ```
 
-View result on [localhost:8080/app/local?search=1](localhost:8080/app/local?search=1)
+View result on [http://localhost:8080/app/local?search=1](http://localhost:8080/app/local?search=1)
